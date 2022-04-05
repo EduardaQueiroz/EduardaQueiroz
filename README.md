@@ -6,8 +6,8 @@ Atualmente estou me aventurando no mundo Full-Stack
 <div align="center">
 	<br>
   <a href="https://github.com/EduardaQueiroz">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=EduardaQueiroz&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
-	<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardaQueiroz&layout=compact&langs_count=16&theme=codeSTACKr"/>           
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduardaQueiroz&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
+	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardaQueiroz&layout=compact&langs_count=16&theme=codeSTACKr"/>           
 </div>
 
 <div style="display: inline_block" align="center">
