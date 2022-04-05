@@ -29,7 +29,7 @@ Atualmente estou me aventurando no mundo Full-Stack
 	<a href="https://www.linkedin.com/in/eduarda-queiroz-/"> <img height="30em" src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> </a>
 	<a href="mailto:mequeirozs@gmail.com"> <img height="30em" src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> </a>
 
-	![Snake animation](https://github.com/EduardaQueiroz/EduardaQueiroz/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/EduardaQueiroz/EduardaQueiroz/blob/output/github-contribution-grid-snake.svg)
 	
 </div>
 	
