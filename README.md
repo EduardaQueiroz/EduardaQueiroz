@@ -1,8 +1,5 @@
 ### Oiii! Eu sou a Eduarda 👋
 
-Atualmente estou me aventurando no mundo Full-Stack 
-- 💻 Estou estudando Angular, Javascript e NodeJS
-
 <div align="center">
 	<br>
   <a href="https://github.com/EduardaQueiroz">
